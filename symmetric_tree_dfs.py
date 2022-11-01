@@ -5,7 +5,7 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def isSymmetric(self, root: Optional[TreeNode]) -> bool:
+    def isSymmetric(self, root: Optional[TreeNode]) -> bool:  #TC - O(n),  SC - O(n)
         
         
         
